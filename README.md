@@ -26,5 +26,4 @@ I am a junior software developer and technology enthusiast
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=aymussa&theme=gruvbox&border_radius=4.5) -->
 
 #
-
-https://github.com/aymussa/github-profile-views-counter
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
