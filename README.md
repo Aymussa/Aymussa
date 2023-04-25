@@ -25,7 +25,6 @@ I'm a trainee frontend developer with a passion for building beautiful user inte
 
 ### 📊 Stats
 
-#
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymussa&show_icons=true&theme=gruvbox)
 
