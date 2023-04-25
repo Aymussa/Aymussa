@@ -22,7 +22,6 @@ I'm a trainee frontend developer with a passion for building beautiful user inte
 
 <br />
 #
-<br />
 
 ### 📊 Stats
 
