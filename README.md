@@ -3,12 +3,14 @@
 **`Digital Craftsman (Graphic Designer/Developer)`**
 
 Welcome to my GitHub profile!
+<br />
 I'm a trainee frontend developer with a passion for building beautiful user interfaces that are both functional and user-friendly. I'm also a good problem solver and I have a passion for learning coding. I'm always looking for new ways to improve my skills and I'm always willing to help others. I'm confident that I have the skills and the drive to be a successful developer
 
-<br />
-🧰 Languages and Tools
+#
+🧰 
+<br />Languages and Tools
+#
 
-<br />
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
