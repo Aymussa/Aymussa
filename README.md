@@ -27,4 +27,5 @@ I am a junior software developer and technology enthusiast
 
 #
 
-![](https://komarev.com/ghpvc/?username=your-github-aymussa&style=for-the-badge")
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=aymussa&style=for-the-badge"
