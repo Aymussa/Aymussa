@@ -27,5 +27,5 @@ I am a junior software developer and technology enthusiast
 
 #
 
-<a href="https://github.com/aymussa/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=aymussa&style=for-the-badge"
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/aymussa/github-profile-views-counter
