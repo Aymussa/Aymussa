@@ -1,9 +1,9 @@
-#  Ahmed Mussa
+#  :wave: Hi! , I'm Ahmed Mussa 
 
 **`Digital Craftsman (Graphic Designer/Developer)`**
 
 Welcome to my GitHub profile!
-I am a junior software developer and technology enthusiast 
+I'm a trainee frontend developer with a passion for building beautiful user interfaces that are both functional and user-friendly. I'm also a good problem solver and I have a passion for learning coding. I'm always looking for new ways to improve my skills and I'm always willing to help others. I'm confident that I have the skills and the drive to be a successful developer
 
 ### 🧰 Languages and Tools
 
